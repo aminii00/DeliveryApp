@@ -1,9 +1,6 @@
 # googleColab에서 R을 이용한 배달앱 분석
-
-
 ### 팀원
 김도진, 류수민, 최민아(본인)
-
 <br>
 
 ##### googleColab
