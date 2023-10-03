@@ -8,7 +8,7 @@
 
 ### googleColab
 https://colab.research.google.com/drive/17FSvXFTUf68toVKYsNecjR_m0KYjayXe?usp=sharing
-### 데이터
+### 사용한 데이터 (공공데이터 가공)
 https://docs.google.com/spreadsheets/d/147K1HoEPeuK9rhEtOEB-3YuCsRBnCe6z/edit?usp=sharing&ouid=113058915804779903781&rtpof=true&sd=true
 <br>
 
@@ -26,5 +26,5 @@ https://docs.google.com/spreadsheets/d/147K1HoEPeuK9rhEtOEB-3YuCsRBnCe6z/edit?us
 - 상관분석 (양적변수간의 관계),<br>
 - 다중회귀분석(두 개 이상의 독립변수가 종속변수에 미치는 영향),<br>
 - 차이분석 (여러 질적 변수들에 따른 양적변수의 차이)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; -> t-test: 질적 그룹변수의 카테고리가 2개인 경우, One-way ANOVA : 질적 그룹변수의 카테고리가 3개 이상인 경우) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; -> t-test: 질적 그룹변수의 카테고리가 2개인 경우, One-way ANOVA : 질적 그룹변수의 카테고리가 3개 이상인 경우) <br><br><br>
 
